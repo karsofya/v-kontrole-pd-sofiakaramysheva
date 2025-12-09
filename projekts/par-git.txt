@@ -1,0 +1,8 @@
+o	Kas ir Git?
+Git ir versiju kontroles sistēma, kas ļauj izsekot izmaiņām failos un projektos. 
+Tas saglabā visu projekta vēsturi un ļauj atgriezties iepriekšējās versijās. 
+Git atbalsta sadarbību komandās un paralēlu darbu ar dažādām funkcijām.
+o	Kāpēc versiju kontrole ir tik ļoti svarīga projektu izstrādē?
+Versiju kontrole ļauj izsekot, kas un kad mainīts, un atvieglo kļūdu labošanas procesu. 
+Tā nodrošina drošību, jo projekta iepriekšējās versijas var atjaunot jebkurā brīdī. 
+Tā arī atvieglo komandas darbu, ļaujot strādāt paralēli un organizēti.
