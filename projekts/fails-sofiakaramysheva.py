@@ -1,1 +1,2 @@
 print("Pārbaudes darbs par versiju kontroli")
+print("Pārbaudes darbs par versiju kontroli Šīs tēmas ietvaros bija iespējams iegūt zināšanas par tik ļoti svarīgajiem un vērtīgajiem versiju kontroles pamatprincipiem.GIT ir ļoti noderīgs rīks. Man ļoti patīk izmantot GIT!")
