@@ -1,0 +1,1 @@
+print("Pārbaudes darbs par versiju kontroli")
